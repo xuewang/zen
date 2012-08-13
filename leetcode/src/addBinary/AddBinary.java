@@ -1,6 +1,6 @@
 /*
  * Given two binary strings, return their sum (also a binary string).
- *INPUT: a = ¡°11¡å, b = ¡°1¡å
+ *INPUT: a = "11", b = "1"
  *OUTPUT: ¡°100¡å
  */
 
